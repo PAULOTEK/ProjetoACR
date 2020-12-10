@@ -1,0 +1,24 @@
+C:\Marisa\projetosC\ProjetoACR\bin\Debug\ProjetoACR.exe.config
+C:\Marisa\projetosC\ProjetoACR\bin\Debug\ProjetoACR.exe
+C:\Marisa\projetosC\ProjetoACR\bin\Debug\ProjetoACR.pdb
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.csprojAssemblyReference.cache
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.frmPrincipal.resources
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.Properties.Resources.resources
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.csproj.GenerateResource.cache
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.csproj.CoreCompileInputs.cache
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.exe
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.pdb
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.FrmCadastroClientes.resources
+C:\Marisa\projetosC\ProjetoACR\obj\Debug\ProjetoACR.frmConsultaCliente.resources
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.csprojAssemblyReference.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.frmPrincipal.resources
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.FrmCadastroClientes.resources
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.frmConsultaCliente.resources
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.Properties.Resources.resources
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.csproj.GenerateResource.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\obj\Debug\ProjetoACR.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\bin\Debug\ProjetoACR.exe.config
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\bin\Debug\ProjetoACR.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\ProjetoACR\bin\Debug\ProjetoACR.pdb
